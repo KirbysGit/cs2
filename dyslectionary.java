@@ -1,3 +1,8 @@
+// Colin Kirby
+// 1/22/2024
+// dyslectionary.java
+// https://open.kattis.com/problems/dyslectionary
+
 import java.util.*;
 
 // scanner read datad
