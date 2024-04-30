@@ -1,6 +1,7 @@
 // Colin Kirby
 // 3/28/2024
-// codes.java
+// tight.java
+// https://open.kattis.com/problems/tight
 // This code utilizes the Dynamic Programming to calculate the percentage of availabe tight words
 // based on vals k and n, where k represents the final value of a list of possible values, and n
 // represents the length of said "word" of which each index must not be less than 1 value of each
