@@ -1,3 +1,6 @@
+// Colin Kirby
+// 2/14/2024
+// hexagram.java
 
 
 import java.util.*;
