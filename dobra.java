@@ -1,6 +1,7 @@
 // Colin Kirby
 // 2/12/2024
 // dobra.java
+// https://open.kattis.com/problems/dobra
 // Java Code that calculates the number of possible pleasant words with "pleasant"
 // being defined by 3 constraints, that there is no 3 consecutive vowels and/or
 // consonant pairs, and the string must contain the letter 'L'. The program uses
