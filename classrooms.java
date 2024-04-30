@@ -1,6 +1,7 @@
 // Colin Kirby
 // 2/27/2024
 // classrooms.java
+// https://open.kattis.com/problems/classrooms
 // Java Code that displays the maximum number of activities that can be scheduled based on
 // an n amount of pairs representing start and end time of those activities, and using a 
 // greedy algorithm (sorting by end times then placing those end times most efficiently
