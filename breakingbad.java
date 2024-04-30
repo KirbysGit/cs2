@@ -1,3 +1,8 @@
+// Colin Kirby
+// 3/4/2024
+// breakingbad.java
+// https://open.kattis.com/problems/breakingbad
+
 import java.io.*;
 import java.util.*;
 // HashMap<Integer, String> retrieve
